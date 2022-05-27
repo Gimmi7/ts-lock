@@ -15,7 +15,7 @@
   "author": "Gimmi7",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elastic/elasticsearch-js.git"
+    "url": "https://github.com/Gimmi7/ts-lock.git"
   },
   "license": "ISC",
   "devDependencies": {
