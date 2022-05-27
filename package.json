@@ -1,7 +1,8 @@
 {
   "name": "ts-lock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "type": "module",
   "main": "dist/src/AsyncLock.js",
   "types": "dist/src/AsyncLock.d.ts",
   "scripts": {
@@ -16,6 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Gimmi7/ts-lock.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "license": "ISC",
   "devDependencies": {
